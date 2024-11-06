@@ -19,8 +19,7 @@
 - [CompTIA Network +](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [CompTIA Security +](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [CompTIA Linux +](https://www.youtube.com/watch?v=a83ASGn_V_s)
-
-  
+- [CompTIA PenTest +](https://www.youtube.com/watch?v=a83ASGn_V_s)  
 
 <h2>📺 YouTube Videos</h2>
 
