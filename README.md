@@ -1,6 +1,6 @@
 <h1>Hi, I'm Austin! <br/><a href="https://www.linkedin.com/in/joshmadakor/">IT Operations and Security Specialist</a>
 
-<h2>👨🏾‍💻 IT and Python Projects!! </h2>
+<h2>👨🏾‍💻 IT and Python Projects </h2>
 
 
   - [Active Directory Home Lab 💻](https://github.com/AustinThierry/ActiveDirectoryLab/blob/main/README.md)
