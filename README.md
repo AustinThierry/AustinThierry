@@ -3,7 +3,7 @@
 <h2>👨🏾‍💻 Cybersecurity Projects </h2>
 
 
-  - [Active Directory Home Lab 💻](https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/AustinThierry/ActiveDirectoryLab/blob/main/README.md))
+  - [Active Directory Home Lab 💻](https://github.com/AustinThierry/ActiveDirectoryLab/blob/main/README.md))
   - [Rock, Paper, Scissors!! With Python 🐍](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Hangman!! With Python 🐍](https://github.com/joshmadakor1/Algorithms-Practice)
     
