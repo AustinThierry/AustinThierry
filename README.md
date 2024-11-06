@@ -19,7 +19,6 @@
 - [CompTIA Network +](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [CompTIA Security +](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [CompTIA Linux +](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Red Hat Certified System Administrator](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
   
 
